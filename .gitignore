@@ -1,0 +1,5 @@
+/.idea
+/cmake-build-debug
+/CMakelists.txt
+/main.exe
+/main.out
