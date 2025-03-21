@@ -1,5 +1,5 @@
-#include "../include/GrafoLista.h"
-#include "../include/Vertice.h"
+#include "GrafoLista.h"
+#include "Vertice.h"
 #include <iostream>
 
 using namespace std;

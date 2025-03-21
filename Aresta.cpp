@@ -1,4 +1,4 @@
-#include "../include/Aresta.h"
+#include "Aresta.h"
 #include <iostream>
 
 using namespace std;

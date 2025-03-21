@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
-#include "include/GrafoLista.h"
-#include "include/GrafoMatriz.h"
+#include "GrafoLista.h"
+#include "GrafoMatriz.h"
 #include <string>
 
 using namespace std;
@@ -62,7 +62,7 @@ int main(int argc, char *argv[]) {
     else
     {
         cout << "Erro inesperado";
-        return 1;
+       // return 1;
     }
 
     return 0;

@@ -1,4 +1,4 @@
-#include "../include/GrafoMatriz.h"
+#include "GrafoMatriz.h"
 
 GrafoMatriz::GrafoMatriz() {
     MAX_VERTICES = 10;
